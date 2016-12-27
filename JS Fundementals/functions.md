@@ -62,4 +62,3 @@ Scope defines the visibility of our variables in our code.
       'use strict';
       }());
     ```
-  - 
